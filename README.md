@@ -20,6 +20,8 @@ The project also includes basic error handling. For example, if a user tries to 
 * Tkinter
 * pypdf
 * os module
+* pypdf
+* pdfwriter
 
 ## What I Learned :-
 **Through this project, I gained a better understanding of :-**
